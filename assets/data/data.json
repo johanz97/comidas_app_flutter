@@ -1,0 +1,71 @@
+[
+    {
+        "id": "1",
+        "title": "Encebollado",
+        "subtitle": "Un sabor único",
+        "images": [
+            {
+                "id": "1",
+                "url": "assets/img/encebollado.jpeg"
+            },
+            {
+                "id": "2",
+                "url": "assets/img/encebollado.jpeg"
+            },
+            {
+                "id": "3",
+                "url": "assets/img/encebollado.jpeg"
+            }
+        ],
+        "value": 2.50,
+        "place": "Ecuador",
+        "description": "Platillo mas desgustado por las familias ecuatorianas, por lo general este puede ir acompañado por chifles, canguil, pan o tostado.",
+        "time": 20
+    },
+    {
+        "id": "2",
+        "title": "Guatita",
+        "subtitle": "Un sabor único",
+        "images": [
+            {
+                "id": "1",
+                "url": "assets/img/guatita.jpeg"
+            },
+            {
+                "id": "2",
+                "url": "assets/img/guatita.jpeg"
+            },
+            {
+                "id": "3",
+                "url": "assets/img/guatita.jpeg"
+            }
+        ],
+        "value": 2.0,
+        "place": "Ecuador",
+        "description": "Platillo mas desgustado por las familias ecuatorianas, por lo general este puede ir acompañado por chifles, canguil, pan o tostado.",
+        "time": 20
+    },
+    {
+        "id": "3",
+        "title": "Ceviche",
+        "subtitle": "Un sabor único",
+        "images": [
+            {
+                "id": "1",
+                "url": "assets/img/ceviche.jpeg"
+            },
+            {
+                "id": "2",
+                "url": "assets/img/ceviche.jpeg"
+            },
+            {
+                "id": "3",
+                "url": "assets/img/ceviche.jpeg"
+            }
+        ],
+        "value": 5.0,
+        "place": "Ecuador",
+        "description": "Platillo mas desgustado por las familias ecuatorianas, por lo general este puede ir acompañado por chifles, canguil, pan o tostado.",
+        "time": 20
+    }
+]
