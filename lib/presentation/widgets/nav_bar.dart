@@ -9,7 +9,7 @@ class NavBar extends StatelessWidget {
     return Container(
       margin: EdgeInsets.symmetric(
         horizontal: 30.w,
-        vertical: 30.h,
+        vertical: 25.h,
       ),
       padding: EdgeInsets.symmetric(
         horizontal: 60.w,
