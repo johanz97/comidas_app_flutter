@@ -1,6 +1,6 @@
 # comidas_app
 
-This project contains a main page that shows the main dish and the total dishes, and a page that shows the description at the same time allows you to add to cart, additionally allows you to see what you have ordered and pay for it.
+This project contains a main page that shows the main dish and the total foods, and a page that shows the description at the same time allows you to add to cart, additionally allows you to see what you have ordered and pay for it.
 
 # About this Proyect
 
