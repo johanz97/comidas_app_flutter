@@ -32,6 +32,10 @@ It is designed under the clean architecture, divided in 4 layers:
 Version flutter 2.10.1
 ```console
 # flutter pub get
+```
+```console
 # flutter packages pub run build_runner build --delete-conflicting-outputs
+```
+```console
 # Flutter run
 ```
